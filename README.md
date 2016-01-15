@@ -1,1 +1,1 @@
-# iconfont
+# TransferWise IconFont

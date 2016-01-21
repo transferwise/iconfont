@@ -9,23 +9,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-19"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 74,
-				"id": 0,
+				"order": 1,
+				"id": 53,
 				"prevSize": 32,
 				"code": 59648,
 				"name": "send",
 				"ligatures": "send"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 0
 		},
 		{
@@ -36,23 +36,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-20"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 75,
-				"id": 1,
+				"order": 2,
+				"id": 52,
 				"prevSize": 32,
 				"code": 59701,
 				"name": "request",
 				"ligatures": "request"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 1
 		},
 		{
@@ -63,23 +63,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-02"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 76,
-				"id": 2,
+				"order": 3,
+				"id": 51,
 				"prevSize": 32,
 				"code": 59649,
 				"name": "man",
 				"ligatures": "man"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 2
 		},
 		{
@@ -90,23 +90,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-03"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 77,
-				"id": 3,
+				"order": 4,
+				"id": 50,
 				"prevSize": 32,
 				"code": 59650,
 				"name": "woman",
 				"ligatures": "woman"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 3
 		},
 		{
@@ -117,23 +117,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-04"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 78,
-				"id": 4,
+				"order": 5,
+				"id": 49,
 				"prevSize": 32,
 				"code": 59651,
 				"name": "profile",
 				"ligatures": "profile"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 4
 		},
 		{
@@ -145,23 +145,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-05"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 79,
-				"id": 5,
+				"order": 6,
+				"id": 48,
 				"prevSize": 32,
 				"code": 59652,
 				"name": "add-profile",
 				"ligatures": "add-profile"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 5
 		},
 		{
@@ -173,23 +173,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-06"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 117,
-				"id": 6,
+				"order": 44,
+				"id": 47,
 				"prevSize": 32,
 				"code": 59653,
 				"name": "delete-profile",
 				"ligatures": "delete-profile"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 6
 		},
 		{
@@ -202,23 +202,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-07"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 118,
-				"id": 7,
+				"order": 45,
+				"id": 46,
 				"prevSize": 32,
 				"code": 59654,
 				"name": "trash",
 				"ligatures": "trash"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 7
 		},
 		{
@@ -232,23 +232,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-08"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 80,
-				"id": 8,
+				"order": 7,
+				"id": 45,
 				"prevSize": 32,
 				"code": 59655,
 				"name": "ach",
 				"ligatures": "ach"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 8
 		},
 		{
@@ -260,23 +260,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-09"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 81,
-				"id": 9,
+				"order": 8,
+				"id": 44,
 				"prevSize": 32,
 				"code": 59656,
 				"name": "bank",
 				"ligatures": "bank"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 9
 		},
 		{
@@ -288,23 +288,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-10"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 82,
-				"id": 10,
+				"order": 9,
+				"id": 43,
 				"prevSize": 32,
 				"code": 59657,
 				"name": "alert-circle",
 				"ligatures": "alert-circle"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 10
 		},
 		{
@@ -316,23 +316,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-11"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 83,
-				"id": 11,
+				"order": 10,
+				"id": 42,
 				"prevSize": 32,
 				"code": 59658,
 				"name": "alert",
 				"ligatures": "alert"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 11
 		},
 		{
@@ -344,23 +344,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-12"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 84,
-				"id": 12,
+				"order": 11,
+				"id": 41,
 				"prevSize": 32,
 				"code": 59659,
 				"name": "lock",
 				"ligatures": "lock"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 12
 		},
 		{
@@ -372,23 +372,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-13"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 85,
-				"id": 13,
+				"order": 12,
+				"id": 40,
 				"prevSize": 32,
 				"code": 59660,
 				"name": "camera",
 				"ligatures": "camera"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 13
 		},
 		{
@@ -400,23 +400,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-14"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 119,
-				"id": 14,
+				"order": 46,
+				"id": 39,
 				"prevSize": 32,
 				"code": 59661,
 				"name": "wifi",
 				"ligatures": "wifi"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 14
 		},
 		{
@@ -426,23 +426,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-15"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 120,
-				"id": 15,
+				"order": 47,
+				"id": 38,
 				"prevSize": 32,
 				"code": 59662,
 				"name": "globe",
 				"ligatures": "globe"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 15
 		},
 		{
@@ -453,23 +453,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-16"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 86,
-				"id": 16,
+				"order": 13,
+				"id": 37,
 				"prevSize": 32,
 				"code": 59663,
 				"name": "check-circle",
 				"ligatures": "check-circle"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 16
 		},
 		{
@@ -480,23 +480,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-17"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 87,
-				"id": 17,
+				"order": 14,
+				"id": 36,
 				"prevSize": 32,
 				"code": 59664,
 				"name": "close-circle",
 				"ligatures": "close-circle"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 17
 		},
 		{
@@ -508,23 +508,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-18"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 88,
-				"id": 18,
+				"order": 15,
+				"id": 35,
 				"prevSize": 32,
 				"code": 59665,
 				"name": "card",
 				"ligatures": "card"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 18
 		},
 		{
@@ -539,23 +539,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-19"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 89,
-				"id": 19,
+				"order": 16,
+				"id": 34,
 				"prevSize": 32,
 				"code": 59666,
 				"name": "id",
 				"ligatures": "id"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 19
 		},
 		{
@@ -565,23 +565,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-20"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 90,
-				"id": 20,
+				"order": 17,
+				"id": 33,
 				"prevSize": 32,
 				"code": 59667,
 				"name": "up",
 				"ligatures": "up"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 20
 		},
 		{
@@ -591,23 +591,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-21"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 91,
-				"id": 21,
+				"order": 18,
+				"id": 32,
 				"prevSize": 32,
 				"code": 59668,
 				"name": "down",
 				"ligatures": "down"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 21
 		},
 		{
@@ -618,23 +618,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-22"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 121,
-				"id": 22,
+				"order": 48,
+				"id": 31,
 				"prevSize": 32,
 				"code": 59669,
 				"name": "transfer",
 				"ligatures": "transfer"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 22
 		},
 		{
@@ -644,23 +644,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-23"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 122,
-				"id": 23,
+				"order": 49,
+				"id": 30,
 				"prevSize": 32,
 				"code": 59670,
 				"name": "check",
 				"ligatures": "check"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 23
 		},
 		{
@@ -670,23 +670,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-24"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 92,
-				"id": 24,
+				"order": 19,
+				"id": 29,
 				"prevSize": 32,
 				"code": 59671,
 				"name": "close",
 				"ligatures": "close"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 24
 		},
 		{
@@ -698,23 +698,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-25"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 93,
-				"id": 25,
+				"order": 20,
+				"id": 28,
 				"prevSize": 32,
 				"code": 59672,
 				"name": "help-circle",
 				"ligatures": "help-circle"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 25
 		},
 		{
@@ -724,23 +724,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-26"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 94,
-				"id": 26,
+				"order": 21,
+				"id": 27,
 				"prevSize": 32,
 				"code": 59673,
 				"name": "help",
 				"ligatures": "help"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 26
 		},
 		{
@@ -751,23 +751,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-27"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 95,
-				"id": 27,
+				"order": 22,
+				"id": 26,
 				"prevSize": 32,
 				"code": 59674,
 				"name": "setting",
 				"ligatures": "setting"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 27
 		},
 		{
@@ -778,23 +778,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-28"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 96,
-				"id": 28,
+				"order": 23,
+				"id": 25,
 				"prevSize": 32,
 				"code": 59675,
 				"name": "logout",
 				"ligatures": "logout"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 28
 		},
 		{
@@ -806,23 +806,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-29"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 97,
-				"id": 29,
+				"order": 24,
+				"id": 24,
 				"prevSize": 32,
 				"code": 59676,
 				"name": "mobile",
 				"ligatures": "mobile"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 29
 		},
 		{
@@ -835,23 +835,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-30"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 123,
-				"id": 30,
+				"order": 50,
+				"id": 23,
 				"prevSize": 32,
 				"code": 59677,
 				"name": "pending",
 				"ligatures": "pending"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 30
 		},
 		{
@@ -862,23 +862,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-31"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 124,
-				"id": 31,
+				"order": 51,
+				"id": 22,
 				"prevSize": 32,
 				"code": 59678,
 				"name": "comments",
 				"ligatures": "comments"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 31
 		},
 		{
@@ -888,23 +888,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-32"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 98,
-				"id": 32,
+				"order": 25,
+				"id": 21,
 				"prevSize": 32,
 				"code": 59679,
 				"name": "home",
 				"ligatures": "home"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 32
 		},
 		{
@@ -916,23 +916,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-33"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 99,
-				"id": 33,
+				"order": 26,
+				"id": 20,
 				"prevSize": 32,
 				"code": 59680,
 				"name": "link",
 				"ligatures": "link"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 33
 		},
 		{
@@ -945,23 +945,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-34"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 100,
-				"id": 34,
+				"order": 27,
+				"id": 19,
 				"prevSize": 32,
 				"code": 59681,
 				"name": "joint-account",
 				"ligatures": "joint-account"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 34
 		},
 		{
@@ -971,23 +971,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-35"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 101,
-				"id": 35,
+				"order": 28,
+				"id": 18,
 				"prevSize": 32,
 				"code": 59682,
 				"name": "notification",
 				"ligatures": "notification"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 35
 		},
 		{
@@ -997,23 +997,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-36"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 102,
-				"id": 36,
+				"order": 29,
+				"id": 17,
 				"prevSize": 32,
 				"code": 59683,
 				"name": "message",
 				"ligatures": "message"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 36
 		},
 		{
@@ -1024,23 +1024,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-37"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 103,
-				"id": 37,
+				"order": 30,
+				"id": 16,
 				"prevSize": 32,
 				"code": 59684,
 				"name": "eye",
 				"ligatures": "eye"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 37
 		},
 		{
@@ -1051,23 +1051,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-38"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 125,
-				"id": 38,
+				"order": 52,
+				"id": 15,
 				"prevSize": 32,
 				"code": 59685,
 				"name": "notification-2",
 				"ligatures": "notification-2"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 38
 		},
 		{
@@ -1077,23 +1077,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-39"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 126,
-				"id": 39,
+				"order": 53,
+				"id": 14,
 				"prevSize": 32,
 				"code": 59686,
 				"name": "gift",
 				"ligatures": "gift"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 39
 		},
 		{
@@ -1103,23 +1103,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-40"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 104,
-				"id": 40,
+				"order": 31,
+				"id": 13,
 				"prevSize": 32,
 				"code": 59687,
 				"name": "search",
 				"ligatures": "search"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 40
 		},
 		{
@@ -1130,23 +1130,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-41"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 105,
-				"id": 41,
+				"order": 32,
+				"id": 12,
 				"prevSize": 32,
 				"code": 59688,
 				"name": "verification",
 				"ligatures": "verification"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 41
 		},
 		{
@@ -1157,23 +1157,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-42"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 106,
-				"id": 42,
+				"order": 33,
+				"id": 11,
 				"prevSize": 32,
 				"code": 59689,
 				"name": "briefcase",
 				"ligatures": "briefcase"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 42
 		},
 		{
@@ -1186,23 +1186,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-43"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 107,
-				"id": 43,
+				"order": 34,
+				"id": 10,
 				"prevSize": 32,
 				"code": 59690,
 				"name": "receipt",
 				"ligatures": "receipt"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 43
 		},
 		{
@@ -1212,23 +1212,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-44"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 108,
-				"id": 44,
+				"order": 35,
+				"id": 9,
 				"prevSize": 32,
 				"code": 59691,
 				"name": "comment",
 				"ligatures": "comment"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 44
 		},
 		{
@@ -1239,23 +1239,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-45"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 109,
-				"id": 45,
+				"order": 36,
+				"id": 8,
 				"prevSize": 32,
 				"code": 59692,
 				"name": "edit",
 				"ligatures": "edit"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 45
 		},
 		{
@@ -1268,23 +1268,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-46"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 127,
-				"id": 46,
+				"order": 54,
+				"id": 7,
 				"prevSize": 32,
 				"code": 59693,
 				"name": "money",
 				"ligatures": "money"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 46
 		},
 		{
@@ -1295,23 +1295,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-47"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 116,
-				"id": 47,
+				"order": 43,
+				"id": 6,
 				"prevSize": 32,
 				"code": 59694,
 				"name": "line-graph",
 				"ligatures": "line-graph"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 47
 		},
 		{
@@ -1326,23 +1326,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-48"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 110,
-				"id": 48,
+				"order": 37,
+				"id": 5,
 				"prevSize": 32,
 				"code": 59695,
 				"name": "bar-chart",
 				"ligatures": "bar-chart"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 48
 		},
 		{
@@ -1355,23 +1355,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-49"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 111,
-				"id": 49,
+				"order": 38,
+				"id": 4,
 				"prevSize": 32,
 				"code": 59696,
 				"name": "chat-pending",
 				"ligatures": "chat-pending"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 49
 		},
 		{
@@ -1384,23 +1384,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-50"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 112,
-				"id": 50,
+				"order": 39,
+				"id": 3,
 				"prevSize": 32,
 				"code": 59697,
 				"name": "document",
 				"ligatures": "document"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 50
 		},
 		{
@@ -1413,23 +1413,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-51"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 113,
-				"id": 51,
+				"order": 40,
+				"id": 2,
 				"prevSize": 32,
 				"code": 59698,
 				"name": "documents",
 				"ligatures": "documents"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 51
 		},
 		{
@@ -1441,23 +1441,23 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-52"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 114,
-				"id": 52,
+				"order": 41,
+				"id": 1,
 				"prevSize": 32,
 				"code": 59699,
 				"name": "pdf",
 				"ligatures": "pdf"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 52
 		},
 		{
@@ -1469,31 +1469,29 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"colorPermutations": {},
+				"grid": 0,
 				"tags": [
 					"x32-53"
 				],
-				"grid": 0
+				"colorPermutations": {}
 			},
 			"attrs": [],
 			"properties": {
-				"order": 115,
-				"id": 53,
+				"order": 42,
+				"id": 0,
 				"prevSize": 32,
 				"code": 59700,
 				"name": "menu",
 				"ligatures": "menu"
 			},
 			"setIdx": 0,
-			"setId": 0,
+			"setId": 1,
 			"iconIdx": 53
 		}
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "TransferWise-IconFont",
-		"url": "https://github.com/transferwise/iconfont",
-		"designer": ""
+		"name": "TransferWise-IconFont"
 	},
 	"preferences": {
 		"showGlyphs": true,
@@ -1505,11 +1503,7 @@
 			"metadata": {
 				"fontFamily": "TransferWise-IconFont",
 				"majorVersion": 1,
-				"minorVersion": 0,
-				"fontURL": "https://github.com/transferwise/iconfont",
-				"description": "TransferWise IconFont",
-				"copyright": "TransferWise",
-				"designer": ""
+				"minorVersion": 0
 			},
 			"metrics": {
 				"emSize": 1024,
@@ -1524,9 +1518,9 @@
 			"classSelector": ".icon",
 			"showMetrics": false,
 			"showMetadata": true,
-			"showVersion": true,
+			"showVersion": false,
 			"cssVars": true,
-			"includeMetadata": true,
+			"includeMetadata": false,
 			"cssVarsFormat": "less"
 		},
 		"imagePref": {

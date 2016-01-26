@@ -5,7 +5,8 @@
 bower install https://github.com/transferwise/iconfont.git#1.0.1 --save
 ```
 
-## Include
+## Include in your LESS file
 ```
-<link rel="stylesheet" href="bower_components/style.css"></head>
+@import 'variables.less';
+@import 'style.less';
 ```

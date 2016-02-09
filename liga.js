@@ -39,7 +39,6 @@
             'alert': '&#xe90a;',
             'lock': '&#xe90b;',
             'camera': '&#xe90c;',
-            'wifi': '&#xe90d;',
             'globe': '&#xe90e;',
             'check-circle': '&#xe90f;',
             'close-circle': '&#xe910;',

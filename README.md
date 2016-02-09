@@ -1,5 +1,5 @@
 # TransferWise IconFont
-## List of icons
+**List of icons**
 http://transferwise.github.io/iconfont/ 
 
 ## Installation

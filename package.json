@@ -1,6 +1,6 @@
 {
   "name": "transferwise-iconfont",
-  "version": "v1.1.1",
+  "version": "v1.1.2",
   "description": "TransferWise IconFont",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

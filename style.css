@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TransferWise-IconFont';
-  src:  url('fonts/TransferWise-IconFont.eot?zg07su');
-  src:  url('fonts/TransferWise-IconFont.eot?zg07su#iefix') format('embedded-opentype'),
-    url('fonts/TransferWise-IconFont.ttf?zg07su') format('truetype'),
-    url('fonts/TransferWise-IconFont.woff?zg07su') format('woff'),
-    url('fonts/TransferWise-IconFont.svg?zg07su#TransferWise-IconFont') format('svg');
+  src:  url('fonts/TransferWise-IconFont.eot?i67ra7');
+  src:  url('fonts/TransferWise-IconFont.eot?i67ra7#iefix') format('embedded-opentype'),
+    url('fonts/TransferWise-IconFont.ttf?i67ra7') format('truetype'),
+    url('fonts/TransferWise-IconFont.woff?i67ra7') format('woff'),
+    url('fonts/TransferWise-IconFont.svg?i67ra7#TransferWise-IconFont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-glassdoor:before {
+  content: "\e947";
+}
 .icon-ach:before {
   content: "\e900";
 }
@@ -42,8 +45,7 @@
 .icon-bank:before {
   content: "\e905";
 }
-.icon-bar-chart:before,
-.icon-chart:before {
+.icon-bar-chart:before {
   content: "\e906";
 }
 .icon-briefcase:before {
@@ -237,4 +239,13 @@
 }
 .icon-woman:before {
   content: "\e946";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-linkedin:before {
+  content: "\eac9";
 }

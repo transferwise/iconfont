@@ -149,8 +149,7 @@ p {
 .fs1 {
   font-size: 32px;
 }
-
-[class^="icon-"], [class*="icon-"],
-.icon {
-  vertical-align: middle;
+.fs2 {
+  font-size: 32px;
 }
+
